@@ -1,0 +1,4 @@
+os: osx
+language: swift
+xcode_project: example-cocoapods-travis/example-cocoapods-travis.xcodeproj
+xcode_scheme: example-cocoapods-travis-test
