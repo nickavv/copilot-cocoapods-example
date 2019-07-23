@@ -1,2 +1,3 @@
-# copilot-cocoapods-example
-An example repository showing how to set up a standard Swift/Cocoapods project with CoPilot
+# copilot-swift-example
+
+A sample showing how to use CoPilot with a Swift project
