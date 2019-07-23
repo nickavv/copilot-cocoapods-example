@@ -2,4 +2,5 @@ os: osx
 osx_image: xcode10.2
 language: swift
 script:
-  - swift build --fetch
+  - swift build
+  - swift test
