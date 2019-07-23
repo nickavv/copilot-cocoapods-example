@@ -4,3 +4,5 @@ language: swift
 script:
   - swift build
   - swift test
+after_success:
+  - bash <(curl -s https://copilot.blackducksoftware.com/ci/travis/scripts/upload)
